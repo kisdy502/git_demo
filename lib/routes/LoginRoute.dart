@@ -27,7 +27,7 @@ class _LoginRouteState extends State<LoginRoute> {
 
     _nameAutoFocus = true;
     _unameController.text = 'bwply2009@163.com';
-    _pwdController.text = '594d11987';
+    _pwdController.text = '';
     super.initState();
   }
 
